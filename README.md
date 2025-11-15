@@ -158,7 +158,7 @@ Otherwise → Fail
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Test-Management-System.git
+git clone https://github.com/prashant1785/Test-Management-System.git
 
 
 Configure MySQL:
